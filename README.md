@@ -1,2 +1,3 @@
 # React-Tesing
 Testing React Apps with the package "Jest"
+The above repository contains how to test react apps with most popular package Jest in this i made a simple project .In this repository i included how to test async code aslo so  please check it out. the async code was tested by testing called "MOCK testing" .  We don't care about the external data by getting via fetch because the external resource may have some issues so that im include dummy fetch function using this mock test .  for better understanding please the key "."(dot ) to see all these stuffs in the most popoular edtior VS Code .Because on this day this github relese the new feature by pressing the dot button . thanks for reading these stuffs have a great day .
